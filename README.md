@@ -9,7 +9,7 @@
 
 - ⚙ Durée : **24 mois**
 
-- 👨‍💻 Mon portfolio ? [https://www.jeremy-to.tech](https://www.jeremy-to.tech)
+- 👨‍💻 Mon portfolio ? **En cours de mise à jour !**
 
 - 💬 Posez-moi des questions sur ? **Mes passions, ce que je souhaite faire dans la vie :)**
 
