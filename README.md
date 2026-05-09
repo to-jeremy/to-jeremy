@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en cycle d'ingénieur informatique à l'ESIEA d'Ivry-sur-Seine**
 
-- 🌱 Je suis en train d'apprendre ? **Le langage React (Front End), Node.js | Java (Back End) et MySQL pour les bases de données !**
+- 🌱 Je suis en train d'apprendre ? **Le principe de CI/CD avec Kubernetes, GitHub Actions et ArgoCD.**
 
 - 🏢 Quel entreprise pour l'alternance ? **Crédit Agricole Personal Finance et Mobility**
 
