@@ -7,7 +7,7 @@
 
 - 🏢 Quel entreprise pour l'alternance ? **Crédit Agricole Personal Finance et Mobility**
 
-- ⚙ Durée : **36 mois**
+- ⚙ Durée : **24 mois**
 
 - 👨‍💻 Mon portfolio ? [https://www.jeremy-to.tech](https://www.jeremy-to.tech)
 
