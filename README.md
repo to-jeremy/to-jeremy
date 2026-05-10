@@ -1,13 +1,13 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
 <h3 align="center">Apprenti Ingénieur d'études et développement et étudiant à l'ESIEA</h3><br>
 
-- 👨‍🎓 Je suis actuellement ? **Étudiant en cycle d'ingénieur informatique à l'ESIEA d'Ivry-sur-Seine**
+- 👨‍🎓 Je suis actuellement : **Étudiant en cycle d'ingénieur informatique à l'ESIEA d'Ivry-sur-Seine**
 
-- 🌱 Je suis en train d'apprendre ? **Le principe de CI/CD avec Kubernetes, GitHub Actions et ArgoCD.**
-
-- 🏢 Quel entreprise pour l'alternance ? **Crédit Agricole Personal Finance et Mobility**
+- 🏢 Quel entreprise pour l'alternance : **Crédit Agricole Personal Finance et Mobility**
 
 - ⚙ Durée : **24 mois**
+
+- 🌱 En cours d'apprentissage : **Pipelines CI/CD automatisés avec Kubernetes, GitHub Actions et ArgoCD**
 
 - 👨‍💻 Mon portfolio ? **En cours de mise à jour !**
 
